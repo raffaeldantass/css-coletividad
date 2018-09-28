@@ -1,7 +1,6 @@
-# CSS para Layout
-## do básico ao intermediario
+# <span style="text-align:center;">CSS para Layout - Do básico ao intermediario</span>
 
-Download do projeto:
+**Download do projeto:**
 - Faça download dos arquivos contidos neste repositório
 ![Print da tela deste repositório com o dropdown de Download aberto] [print]
 [print](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Print")
